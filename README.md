@@ -62,6 +62,12 @@ It brings together **usability, aesthetics, and behavioral design** to deliver a
 Whether you're a student, professional, or simply someone who wants to stay productive without burnout, this web design empowers you to do so—beautifully and effectively.
 
 ---
+### Demo Video
+
+ Demo video of **Productivity Pulse**:
+
+[![Watch the Demo Video](https://img.youtube.com/vi/1KjVt5JBKhthlD2asYovizjB8zvHM6Mge/0.jpg)](https://drive.google.com/file/d/1KjVt5JBKhthlD2asYovizjB8zvHM6Mge/view?usp=sharing)
+---
 
 ✨ **Stay productive. Stay well. Enjoy the Pulse!**
 
